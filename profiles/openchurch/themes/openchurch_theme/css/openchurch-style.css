@@ -121,6 +121,7 @@ body h1.title, body #site-name, body h2.block-title, body h2.pane-title {
   -moz-border-radius-topright: 0;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-left-radius: 0;
+  padding: 0 !important;
 }
 
 /* Link style for top level menu items, add padding here */
